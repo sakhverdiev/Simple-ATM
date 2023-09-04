@@ -1,0 +1,14 @@
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\CS-ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\CS-ATM.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\CS-ATM.AssemblyInfo.cs
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\CS-ATM.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\bin\Debug\net6.0\CS-ATM.exe
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\bin\Debug\net6.0\CS-ATM.deps.json
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\bin\Debug\net6.0\CS-ATM.runtimeconfig.json
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\bin\Debug\net6.0\CS-ATM.dll
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\bin\Debug\net6.0\CS-ATM.pdb
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\CS-ATM.dll
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\refint\CS-ATM.dll
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\CS-ATM.pdb
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\CS-ATM.genruntimeconfig.cache
+C:\Users\Senan\source\repos\CS-ATM\CS-ATM\obj\Debug\net6.0\ref\CS-ATM.dll
